@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-登录成功
+登录成功,进入卢桃主页
 </body>
 </html>
